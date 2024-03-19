@@ -1,0 +1,90 @@
+.movie {
+    position: relative;
+    cursor: pointer;
+    text-align: left;
+    font-size: 16px;
+    border: 1px solid #fff;
+    padding:10px;
+
+  }
+
+  .card-image{
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    display:grid;
+    background-color:#0F1014;
+
+  }
+  
+  .movie img {
+    height: 100%;
+    max-width: 100%;
+  }
+  
+  .movie-infos {
+    padding: 15px 5px;
+  }
+  
+  .movie-title {
+    margin: 0;
+  }
+  
+  .movie-voting {
+    position: relative;
+    float:right;
+    right:30px;
+    background-color: #0F1014;
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 25px;
+    font-weight:bold;
+  }
+
+  .movie-cover{
+    width:100%;
+    display:grid
+    
+  }
+  
+  .movie-placeholder{
+    min-height:359px;
+    background-color:white;
+    color:#0F1014;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+  }
+  
+
+  /// trailer pane pane
+  .trailer-info{
+    padding-top:20px;
+    position:relative;
+    min-height: 500px;
+    background-position: top center;
+    background-size:cover;
+    display:flex;
+    align-items: flex-end;
+    border: 1px solid #fff;
+    margin-bottom:20px;
+  
+  }
+ 
+  
+  
+  .youtube-container {
+    border:1px solid white;
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  }
+  
+  .youtube-container iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  
+  
+  
