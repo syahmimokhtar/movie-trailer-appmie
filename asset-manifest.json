@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/syahmimokhtar/movie-trailer-appv1/static/css/main.6a54204e.css",
-    "main.js": "/syahmimokhtar/movie-trailer-appv1/static/js/main.06228b81.js",
-    "static/js/453.f2dd2a2d.chunk.js": "/syahmimokhtar/movie-trailer-appv1/static/js/453.f2dd2a2d.chunk.js",
-    "static/media/noPoster.jpg": "/syahmimokhtar/movie-trailer-appv1/static/media/noPoster.07e9358e7fc31410b20f.jpg",
-    "index.html": "/syahmimokhtar/movie-trailer-appv1/index.html",
-    "main.6a54204e.css.map": "/syahmimokhtar/movie-trailer-appv1/static/css/main.6a54204e.css.map",
-    "main.06228b81.js.map": "/syahmimokhtar/movie-trailer-appv1/static/js/main.06228b81.js.map",
-    "453.f2dd2a2d.chunk.js.map": "/syahmimokhtar/movie-trailer-appv1/static/js/453.f2dd2a2d.chunk.js.map"
+    "main.css": "/syahmimokhtar/movie-trailer-appmie/static/css/main.6a54204e.css",
+    "main.js": "/syahmimokhtar/movie-trailer-appmie/static/js/main.4ae6088a.js",
+    "static/js/453.e9c4bf8c.chunk.js": "/syahmimokhtar/movie-trailer-appmie/static/js/453.e9c4bf8c.chunk.js",
+    "static/media/noPoster.jpg": "/syahmimokhtar/movie-trailer-appmie/static/media/noPoster.07e9358e7fc31410b20f.jpg",
+    "index.html": "/syahmimokhtar/movie-trailer-appmie/index.html",
+    "main.6a54204e.css.map": "/syahmimokhtar/movie-trailer-appmie/static/css/main.6a54204e.css.map",
+    "main.4ae6088a.js.map": "/syahmimokhtar/movie-trailer-appmie/static/js/main.4ae6088a.js.map",
+    "453.e9c4bf8c.chunk.js.map": "/syahmimokhtar/movie-trailer-appmie/static/js/453.e9c4bf8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a54204e.css",
-    "static/js/main.06228b81.js"
+    "static/js/main.4ae6088a.js"
   ]
 }
